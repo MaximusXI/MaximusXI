@@ -45,7 +45,7 @@ Crafted a Unity Third person maze game using the free assets on the unity store.
 
 ![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximusXI&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilMakwana&layout=compact&theme=radical)](https://github.com/MaximusXI)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusXI&layout=compact&theme=radical)](https://github.com/MaximusXI)
 
 ---
 
